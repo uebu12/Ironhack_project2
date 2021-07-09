@@ -66,7 +66,7 @@ export default class Calculadora extends React.Component {
             </button>
           </div>
         </form>
-        <p>
+        <p className="result">
           Você deve utilizar: <span>{this.grams} </span>
           ml ou gramas
         </p>

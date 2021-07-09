@@ -6,6 +6,10 @@ body {
   text-align: left;
   font-weight: bold;
 }
+.result {
+  text-align: center;
+  font-size: 1.3rem;
+}
 
 .all {
   background: linear-gradient(lightblue, green);

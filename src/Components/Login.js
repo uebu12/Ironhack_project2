@@ -90,7 +90,7 @@ class LogIn extends React.Component {
           url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
         </style>
         <header>
-          <h1 className="title">Chem Lab App</h1>
+          <h1 className="title">ChemCulator</h1>
         </header>
         <main className="mainContainer">
           <div className="mainItem descrition">
